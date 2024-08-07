@@ -6,10 +6,10 @@ Welcome to my repository dedicated to documenting my journey in learning pytorch
 
 The repository is structured as follows:
 
-- **Notebooks/**: Contains daily Colab notebooks documenting my progress, experiments, and implementations.
-- **Resources/**: Includes links to articles, papers, tutorials, and other learning materials.
-- **Datasets/**: Contains datasets used in the notebooks (where applicable).
-- **Scripts/**: Any standalone Python scripts for data processing or utility functions.
+- **Notebooks**: Contains daily Colab notebooks documenting my progress, experiments, and implementations.
+- **Resources**: Includes links to articles, papers, tutorials, and other learning materials.
+- **Datasets**: Contains datasets used in the notebooks (where applicable).
+- **Scripts**: Any standalone Python scripts for data processing or utility functions.
 
 ## Daily Notebooks
 
